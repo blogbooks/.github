@@ -8,6 +8,7 @@ BlogBooks Library([https://blogbooks.net](https://blogbooks.net))を管理する
 | ---- | ---- |
 |活動開始|2020/12|
 |所有者|react#1507 (@reactor-coding): 4代目所有者|
+|現在状況|活動停止中|
 
 ### 組織マップ
 ```txt
@@ -24,7 +25,8 @@ BlogBooks Community
 ```txt
 BlogBooks Community  
  - Shadow Wolf(https://wolfquery.osaka/)
- - Shade.(リンク不明)
+ 	- Rpid Lex(不明)
+ - Shade.(不明)
 ```
 
 ---
