@@ -25,7 +25,7 @@ BlogBooks Community
 ```txt
 BlogBooks Community  
  - Shadow Wolf(https://wolfquery.osaka/)
- 	- Rpid Lex(不明)
+ 	- Rpid Lex(https://rpid-lex.webnode.jp/)
  - Shade.(不明)
 ```
 
