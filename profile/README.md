@@ -3,31 +3,25 @@
 
 ## About This Organization / この組織について
 
-BlogBooks Library([https://blogbooks.net](https://blogbooks.net))を管理する団体。   
+※ BlogBooks Developers と BlogBooks Community は同じです
+
 | ラベル | 内容 |
 | ---- | ---- |
 |活動開始|2020/12|
-|所有者|react#1507 (@reactor-coding): 4代目所有者|
+|所有者|ねここね :)|
 |現在状況|正常|
+|メンバー数|4人|
 
 ### 組織マップ
-```txt
-BlogBooks Community  
- - BlogBooks Library  
-    - ブログ管理部
-    - ブログ投稿部
- - BlogBooks Developers  
-    - 開発部(BlogBooks Developers)
-    - BlogBooks Private Developers  
-```
 
-### 派生, 独立組織マップ
-```txt
-BlogBooks Community  
- - Shadow Wolf(https://wolfquery.osaka/)
- 	- Rpid Lex(https://rpid-lex.webnode.jp/)
- - Shade.(不明)
-```
+BlogBooks Community(Developers)   
+- Activity Group
+  - サーバー管理班
+  - 法務部
+- Project Tree
+  - SharePlatform / 2人参加
+  - Blog Community for Students(BlogBooks Library) / 3人参加 <a href="https://blogbooks.net">BlogBooks Library</a>
+  - Minecraft Server Plugin: CleanCheat / 参加人数不明
 
 ---
 
