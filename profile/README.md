@@ -10,7 +10,7 @@
 |活動開始|2020/12|
 |所有者|ねここね :)|
 |現在状況|正常|
-|メンバー数|4人|
+|メンバー数|12人|
 
 ### 組織マップ
 
@@ -19,9 +19,11 @@ BlogBooks Community(Developers)
   - サーバー管理班
   - 法務部
 - Project Tree
-  - SharePlatform / 2人参加
-  - Blog Community for Students(BlogBooks Library) / 3人参加 <a href="https://blogbooks.net">BlogBooks Library</a>
-  - Minecraft Server Plugin: CleanCheat / 参加人数不明
+  - SharePlatform
+  - Blog Community for Students(BlogBooks Library) <a href="https://blogbooks.net">BlogBooks Library</a>
+  - Minecraft Server Plugin(Private): CleanCheat
+  - Lupus Project
+  - WordPress Plugins(Private): NewPostAnchor, maskGuard
 
 ---
 
